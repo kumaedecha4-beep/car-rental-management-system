@@ -114,7 +114,17 @@ http://localhost/car-rental-management-system
 (Add screenshot here)
 
 > Tip: Create a folder named `screenshots` and upload images there.
-
-Example:
+> Example:
 ```markdown
 ![Home Page](screenshots/home.png)
+Author
+
+Kuma Edecha
+Computer Science Student
+Web Developer (PHP & MySQL)
+
+📧 Email: your-email@example.com
+
+🌍 GitHub: https://github.com/yourusername
+
+
