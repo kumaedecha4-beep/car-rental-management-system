@@ -103,10 +103,8 @@ http://localhost/car-rental-management-system
 ---
 
 ## 📸 Screenshots
-
 ### 🏠 Home Page
-(Add screenshot here)
-
+![Home](screenshots/home.png)
 ### 🔐 Login Page
 (Add screenshot here)
 
