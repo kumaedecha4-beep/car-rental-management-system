@@ -102,27 +102,29 @@ http://localhost/car-rental
 
 ---
 
+
+---
+
 ## 📸 Screenshots
+
 ### 🏠 Home Page
 ![Home](screenshots/home.png)
+
 ### 🔐 Login Page
-(Add screenshot here)
+![Login](screenshots/login.png)
 
 ### 🛠 Admin Dashboard
-(Add screenshot here)
+![Admin](screenshots/admin.png)
 
 > Tip: Create a folder named `screenshots` and upload images there.
-> Example:
-```markdown
-![Home Page](screenshots/home.png)
-Author
 
-Kuma Edecha
-Computer Science Student
+---
+
+## 👨‍💻 Author
+
+**Kuma Edecha**  
+Computer Science Student  
 Web Developer (PHP & MySQL)
 
-📧 Email: kumaedecha4@gmail.com
-
-🌍 GitHub: https://github.com/yourusername
-
-
+📧 Email: kumaedecha4@gmail.com  
+🌐 GitHub: https://github.com/kumaedecha4-beep
