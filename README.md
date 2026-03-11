@@ -97,7 +97,7 @@ car_rental.sql
 ### 5️⃣ Run the Project
 Open browser:
 
-http://localhost/car-rental-management-system
+http://localhost/car-rental
 
 
 ---
@@ -121,7 +121,7 @@ Kuma Edecha
 Computer Science Student
 Web Developer (PHP & MySQL)
 
-📧 Email: your-email@example.com
+📧 Email: kumaedecha4@gmail.com
 
 🌍 GitHub: https://github.com/yourusername
 
